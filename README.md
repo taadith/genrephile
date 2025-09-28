@@ -1,3 +1,5 @@
+[![.github/workflows/vue.js.yml](https://github.com/taadith/genrephile/actions/workflows/vue.js.yml/badge.svg)](https://github.com/taadith/genrephile/actions/workflows/vue.js.yml)
+
 # genrephile
 
 A novel method to get weekly recommended playlists of unexplored genres tailored to your listening experience.
