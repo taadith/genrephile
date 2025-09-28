@@ -1,5 +1,7 @@
 # genrephile
 
+A novel method to get weekly recommended playlists of unexplored genres tailored to your listening experience.
+
 This template should help get you started developing with Vue 3 in Vite.
 
 ## Recommended IDE Setup
