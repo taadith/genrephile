@@ -2,7 +2,7 @@ name: dev-pipeline
 run-name: dev-pipeline
 on: [push]
 jobs:
-  vue.js:
+  vue-js:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v5
